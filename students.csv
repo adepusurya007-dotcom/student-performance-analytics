@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Programming,Electronics,English,Attendance
+S001,Ravi Kumar,EIE,78,72,85,80,70,92
+S002,Anjali Reddy,EIE,91,88,94,90,85,96
+S003,Mohammed Irfan,ECE,65,58,72,60,68,81
+S004,Sneha Sharma,CSE,88,84,97,79,90,94
+S005,Venkatesh Goud,EEE,45,38,52,48,55,68
+S006,Priya Nair,ECE,72,75,68,77,80,89
+S007,Karthik Raju,EIE,56,61,59,64,58,78
+S008,Divya Teja,CSE,95,92,98,89,93,98
+S009,Sai Charan,EEE,67,63,70,66,61,85
+S010,Lakshmi Prasad,EIE,82,79,86,84,77,90
+S011,Arjun Yadav,ECE,35,42,48,40,52,62
+S012,Fatima Begum,CSE,74,70,81,69,83,88
+S013,Rohit Verma,EEE,59,55,62,58,64,76
+S014,Swathi Rao,EIE,86,90,83,92,88,95
+S015,Naveen Kumar,ECE,48,44,51,46,50,70
+S016,Harika Devi,CSE,79,81,90,75,86,91
+S017,Manoj Babu,EEE,62,68,60,71,66,83
+S018,Pooja Singh,EIE,70,66,74,73,79,87
+S019,Tarun Reddy,CSE,53,47,66,52,60,74
+S020,Keerthi Chandra,ECE,84,77,80,85,81,93
